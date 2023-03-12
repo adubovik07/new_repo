@@ -13,3 +13,5 @@
 ![Природа](image.jpg)
 
 [Ссылка](https://gb.ru/education_new)git
+
+## Основные команды 2 семинара по Git ##
